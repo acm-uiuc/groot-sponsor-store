@@ -1,0 +1,129 @@
+---
+- name: Amazon
+  logo:
+  banner: https://upload.wikimedia.org/wikipedia/commons/7/70/Amazon_logo_plain.svg
+  level: diamond
+  startdate:
+  enddate:
+  
+- name: Palantir
+  logo:
+  banner: https://2015.jsconf.eu/sponsors/images/palantir.svg
+  level: diamond
+  startdate:
+  enddate:
+  
+- name: fitbit
+  logo: https://www.fitbit.com/content/assets/common/logo/fitbit-logo-2016.svg
+  banner: https://commons.wikimedia.org/wiki/File:Fitbit_logo16.svg
+  level: gold
+  startdate:
+  enddate:
+  
+- name: Sunrise Futures
+  logo:
+  banner: #no svg banner available
+  level: gold
+  startdate:
+  enddate:
+  
+- name: akuna capital
+  logo:
+  banner: #no svg banner available
+  level: gold
+  startdate:
+  enddate:
+  
+- name: Capital One
+  logo: https://vignette.wikia.nocookie.net/logopedia/images/2/2d/Capital_One.svg/revision/latest?cb=20130403183911
+  banner: https://vignette.wikia.nocookie.net/logopedia/images/2/2d/Capital_One.svg/revision/latest?cb=20130403183911
+  #capital one does not have a different banner or logo
+  level: silver
+  startdate:
+  enddate:
+  
+- name: Google
+  logo: https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg
+  banner: https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg
+  level: silver
+  startdate:
+  enddate:
+  
+- name: wish
+  logo:
+  banner:
+  level: silver
+  startdate:
+  enddate:
+  
+- name: Qualtrics
+  logo:
+  banner:
+  level: silver
+  startdate:
+  enddate:
+  
+- name: 3Red
+  logo:
+  banner:
+  level: silver
+  startdate:
+  enddate:
+  
+- name: Allston Trading
+  logo:
+  banner:
+  level: silver
+  startdate:
+  enddate:
+  
+- name: Nvidia
+  logo:
+  banner:
+  level: silver
+  startdate:
+  enddate:
+
+- name: fulcrum GT
+  logo:
+  banner: https://acm.illinois.edu/sponsors/images/sponsors/fulcrum.svg
+  hackillinoissponsor: yes
+  startdate:
+  enddate:
+  
+- name: Intelligent Medical Objects
+  logo: https://acm.illinois.edu/sponsors/images/sponsors/imo.svg
+  banner:
+  hackillinoissponsor: yes
+  startdate:
+  enddate:
+
+- name: Microsoft
+  logo:
+  banner: https://acm.illinois.edu/sponsors/images/sponsors/microsoft.svg
+  level:
+  hackillinoissponsor: yes
+  startdate:
+  enddate:
+  
+- name: RetailMeNot
+  logo:
+  banner:
+  level: silver
+  startdate:
+  enddate:
+  
+- name: Nvidia
+  logo:
+  banner:
+  level: silver
+  startdate:
+  enddate:
+  
+- name: Nvidia
+  logo:
+  banner:
+  level: silver
+  startdate:
+  enddate:
+  
