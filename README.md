@@ -1,4 +1,9 @@
 # groot-sponsor-store
+
+[![Build Status](https://travis-ci.org/acm-uiuc/groot-sponsor-store.svg?branch=whysafish108-patch-3)](https://travis-ci.org/acm-uiuc/groot-sponsor-store)
+
+[![Join the chat at https://acm-uiuc.slack.com/messages/C6XGZD212/](https://img.shields.io/badge/slack-groot-724D71.svg)](https://acm-uiuc.slack.com/messages/C6XGZD212/)
+
 The sponsor store, created as of September 2017, will be a centralized location in which we can keep track of levels and other information about our ACM sponsors. Good coding practices are encouraged on this repo, please make sure all yaml files are approved by the .ymllint and .travis file.
 
 ## License
