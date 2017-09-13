@@ -5,77 +5,77 @@
   level: diamond
   startdate:
   enddate:
-  
+
 - name: Palantir
-#  logo: no available svg
+# logo: no available svg
   banner: https://2015.jsconf.eu/sponsors/images/palantir.svg
   level: diamond
   startdate:
   enddate:
-  
+
 - name: fitbit
   logo: https://www.fitbit.com/content/assets/common/logo/fitbit-logo-2016.svg
   banner: https://commons.wikimedia.org/wiki/File:Fitbit_logo16.svg
   level: gold
   startdate:
   enddate:
-  
+
 - name: Sunrise Futures
-#  logo: no logo designed
-#  banner: no available svg banner
+# logo: no logo designed
+# banner: no available svg banner
   level: gold
   startdate:
   enddate:
-  
+
 - name: akuna capital
-#  logo: no logo designed
-#  banner: no available svg banner
+# logo: no logo designed
+# banner: no available svg banner
   level: gold
   startdate:
   enddate:
-  
+
 - name: Capital One
-#  logo: no logo designed
-  banner: https://vignette.wikia.nocookie.net/logopedia/images/2/2d/Capital_One.svg/revision/latest?cb=20130403183911
+# logo: no logo designed
+  banner: https://en.wikipedia.org/wiki/File:Capital_One_logo.svg#/media/File:Capital_One_logo.svg
   level: silver
   startdate:
   enddate:
-  
+
 - name: Google
   logo: https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg
   banner: https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg
   level: silver
   startdate:
   enddate:
-  
+
 - name: wish
-#  logo: no logo designed
+# logo: no logo designed
   banner: https://www.braintreepayments.com/images/logos/black/wish-logo-467f4b19.svg
   level: silver
   startdate:
   enddate:
-  
+
 - name: Qualtrics
   logo: https://images.g2crowd.com/uploads/product/hd_favicon/1487565482/qualtrics.svg
   banner: https://web-assets.domo.com/miyagi/images/logo/connector/color/logo-connector-qualtrics-color.svg
   level: silver
   startdate:
   enddate:
-  
+
 - name: Allston Trading
-#  logo: no logo designed
-#  banner: no available svg
+# logo: no logo designed
+# banner: no available svg
   level: silver
   startdate:
   enddate:
-  
+ 
 - name: 3Red
-#  logo: no available svg
-#  banner: no banner designed
+# logo: no available svg
+# banner: no banner designed
   level: silver
   startdate:
   enddate:
-  
+
 - name: Nvidia
   logo: https://upload.wikimedia.org/wikipedia/en/6/6d/Nvidia_image_logo.svg
   banner: https://vignette3.wikia.nocookie.net/logopedia/images/3/32/Nvidia_Logo_Horizontal.svg/revision/latest?cb=20150131182255
@@ -84,12 +84,12 @@
   enddate:
 
 - name: fulcrum GT
-#  logo: no logo designed
+# logo: no logo designed
   banner: https://acm.illinois.edu/sponsors/images/sponsors/fulcrum.svg
   level: 
   startdate:
   enddate:
-  
+
 - name: Intelligent Medical Objects
   logo: https://acm.illinois.edu/sponsors/images/sponsors/imo.svg
   banner: https://imoanywhere.e-imo.com/Landing/images/IMO%20anywhere%20landing%20logo.svg
@@ -102,14 +102,14 @@
   level:
   startdate:
   enddate:
-  
+
 - name: RetailMeNot
-#  logo: no available svg
+# logo: no available svg
   banner: http://retailmenot.mediaroom.com/images/logo.svg
-#  level:
+  level:
   startdate:
   enddate:
-  
+
 - reflectionsprojectionssponsors:
    - RetailMeNot
    - Palantir
