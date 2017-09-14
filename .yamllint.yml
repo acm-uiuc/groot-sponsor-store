@@ -19,3 +19,4 @@ rules:
   line-length:
     level: warning
     max: 100
+    allow-non-breakable-words: true
