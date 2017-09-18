@@ -7,7 +7,7 @@
   enddate:
 
 - name: Palantir
-# logo: no available svg
+  # logo: no available svg
   banner: https://2015.jsconf.eu/sponsors/images/palantir.svg
   level: diamond
   startdate:
@@ -21,21 +21,21 @@
   enddate:
 
 - name: Sunrise Futures
-# logo: no logo designed
-# banner: no available svg banner
+  # logo: no logo designed
+  # banner: no available svg banner
   level: gold
   startdate:
   enddate:
 
 - name: akuna capital
-# logo: no logo designed
-# banner: no available svg banner
+  # logo: no logo designed
+  # banner: no available svg banner
   level: gold
   startdate:
   enddate:
 
 - name: Capital One
-# logo: no logo designed
+  # logo: no logo designed
   banner: https://en.wikipedia.org/wiki/File:Capital_One_logo.svg#/media/File:Capital_One_logo.svg
   level: silver
   startdate:
@@ -49,7 +49,7 @@
   enddate:
 
 - name: wish
-# logo: no logo designed
+  # logo: no logo designed
   banner: https://www.braintreepayments.com/images/logos/black/wish-logo-467f4b19.svg
   level: silver
   startdate:
@@ -63,15 +63,15 @@
   enddate:
 
 - name: Allston Trading
-# logo: no logo designed
-# banner: no available svg
+  # logo: no logo designed
+  # banner: no available svg
   level: silver
   startdate:
   enddate:
- 
+
 - name: 3Red
-# logo: no available svg
-# banner: no banner designed
+  # logo: no available svg
+  # banner: no banner designed
   level: silver
   startdate:
   enddate:
@@ -84,9 +84,9 @@
   enddate:
 
 - name: fulcrum GT
-# logo: no logo designed
+  # logo: no logo designed
   banner: https://acm.illinois.edu/sponsors/images/sponsors/fulcrum.svg
-  level: 
+  level:
   startdate:
   enddate:
 
@@ -104,16 +104,17 @@
   enddate:
 
 - name: RetailMeNot
-# logo: no available svg
+  # logo: no available svg
   banner: http://retailmenot.mediaroom.com/images/logo.svg
   level:
   startdate:
   enddate:
 
-- reflectionsprojectionssponsors:
+- reflectionsprojections_sponsors:
    - RetailMeNot
    - Palantir
-  hackillinoissponsors:
+
+- hackillinois_sponsors:
    - fulcrum GT
    - Intelligent Medical Objects
    - Microsoft
